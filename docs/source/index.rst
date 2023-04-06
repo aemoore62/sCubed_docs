@@ -18,3 +18,4 @@ Contents
    overview
    quick_start
    glossary
+   complementary_rsrcs
