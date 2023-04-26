@@ -17,6 +17,7 @@ Contents
 
    overview
    quick_start
+   tutorial
    glossary
    complementary_rsrcs
    privacy_policy
