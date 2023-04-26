@@ -18,17 +18,28 @@ Access simple help text
 -------
 #. Hover the pointer over a column name to reveal the simple help text.
 
+ .. _add-ctrl-term:
 Add a controlled term
 -------
-Controlled can only be added via drop-down lists that include the key phrase ``Add controlled term``.
-#. From the drop-down list, select ``Add controlled term`.
+Controlled terms can only be added via drop-down lists that include the key phrase ``Add controlled term``.
+
+#. From the drop-down list, select ``Add controlled term``.
 #. In the form, enter the term name.
 #. In the form, specify if the term is an ontology.
 #. Enter a link to the ontology term or an ontology term that's closest.
 
+Create a process type
+-------
+Note that this is only applicable to instances where you are either summarizing provenance or are using the generic actvity approach to provenance.
+
+#. Select the ``processDefinition`` Sheets (tab).
+#. In the column ``process_type``, select the drop-down list.
+#. Follow the steps for :ref:`add-ctrl-term`. 
+
 Create a planned process
 -------
-To create a planned process, you must have created at least one procees type
+To create a planned process, you must have created at least one procees type.
+
 #. Select the ``processDefinition`` Sheets (tab).
 #. In the first column, select a process type from the list.
 #. In the column ``process_id``, enter a process ID.
