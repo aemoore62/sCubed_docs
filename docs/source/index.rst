@@ -19,3 +19,4 @@ Contents
    quick_start
    glossary
    complementary_rsrcs
+   contribute
