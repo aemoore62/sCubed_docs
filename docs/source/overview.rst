@@ -36,21 +36,15 @@ a physical material to summarize.
 
 sCubed not only introduces new features to the realm of capturing complex, scientific information in spreadshets but sCubed also employs features that are native to Google Sheets:
 
-Data validation
-~~~~~~~~~~
-**Data validation** restricts the entries that researchers can make, e.g. select an item from a list of controlled vocabularies.
+* **Data validation** restricts the entries that researchers can make, e.g. select an item from a list of controlled vocabularies.
 
-Value formatting
-~~~~~~~~~~
-**Value formatting** dictates how values are displayed and mitigates unwanted transformations to information like gene names being converted to dates.
+* **Value formatting** dictates how values are displayed and mitigates unwanted transformations to information like gene names being converted to dates.
 
-Conditional formatting
-~~~~~~~~~~
-**Conditional formatting** changes the background colors of cells to indicate which fields are required, optional, completed, or not applicable.
+* **Conditional formatting** changes the background colors of cells to indicate which fields are required, optional, completed, or not applicable.
 
-Simple help text
-~~~~~~~~~~
-**Simple help text**, implmented using the Google Sheets feature *notes*, provide key information about what is expected of entries.
+* **Simple help text**, implmented using the Google Sheets feature *notes*, provide key information about what is expected of entries.
 
+Summary
+-------
 Through five sheets and a combination of features that are novel and native to Google Sheets, sCubed honors the preferance of many researchers to capture and share metadata. Simulaltaneously, sCubed targets the challenge to make complex, scientific information in spreadsheets trustworthy and machine-actionaable.
 
