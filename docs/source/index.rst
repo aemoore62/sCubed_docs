@@ -19,4 +19,5 @@ Contents
    quick_start
    glossary
    complementary_rsrcs
+   privacy_policy
    contribute
