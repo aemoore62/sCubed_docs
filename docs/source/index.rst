@@ -1,7 +1,7 @@
 Share Science with Sheets
 ===================================
 
-**Share Science with Sheets** (sCubed) is a Google Sheets app that targets
+**Share Science with Sheets** (sCubed) is a spreadsheet application that targets
 complex descriptions of scientific experiments.
 
 Check out the :doc:`overview` section for further information.
