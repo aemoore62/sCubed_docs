@@ -15,10 +15,8 @@ What authorizations and permissions are required?
 -------
 When you install sCubed, you will be prompted to authorize certain permissions:
 
-* *View and manage your spreadsheets in Google Drive* is required for sCubed to create and configure Sheets (tabs) in the active spreadsheet (file)
-and evaluate the Sheets in the active spreadsheet.
-* *Display and run third-party web content in prompts and sidebars inside Google applications* is required for sCubed to display the form that 
-autopopulates `reporting workflows and specifications <https://scubed-docs.readthedocs.io/en/latest/overview.html#reporting-workflows>`_.
+* *View and manage your spreadsheets in Google Drive* is required for sCubed to create and configure Sheets (tabs) in the active spreadsheet (file) and evaluate the Sheets in the active spreadsheet.
+* *Display and run third-party web content in prompts and sidebars inside Google applications* is required for sCubed to display the form that autopopulates `reporting workflows and specifications <https://scubed-docs.readthedocs.io/en/latest/overview.html#reporting-workflows>`_.
 
 What happens when I configure the Sheets?
 -------
@@ -49,6 +47,7 @@ If the conditions for a mini table are satisfied, sCubed will **insert** a globa
 What does the installable onEdit trigger do?
 -------
 The optional installable onEdit trigger enables sCubed Sheets to dynamically respond to edits, including
+
 * hiding and showing columns and
 * initiating and preventing `mini tables <https://scubed-docs.readthedocs.io/en/latest/overview.html#mini-tables>`_. 
 
