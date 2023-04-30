@@ -15,8 +15,10 @@ What authorizations and permissions are required?
 -------
 When you install sCubed, you will be prompted to authorize certain permissions:
 
-* *View and manage your spreadsheets in Google Drive* is required for sCubed to create and configure Sheets (tabs) in the active spreadsheet (file) and evaluate the Sheets in the active spreadsheet.
-* *Display and run third-party web content in prompts and sidebars inside Google applications* is required for sCubed to display the form that autopopulates `reporting workflows and specifications <https://scubed-docs.readthedocs.io/en/latest/overview.html#reporting-workflows>`_.
+* *See, edit, create, and delete all your Google Sheets spreadsheets* is required for sCubed to configure sheets and support sCubed's features like column
+visibility, mini tables, and populatinng workflows and specifications.
+* *Allow this application to run when you are not present* is required for the onEdit trigger.
+* *Display and run third-party web content in prompts and sidebars inside Google application* is required for sCubed to display the form that autopopulates `reporting workflows and specifications <https://scubed-docs.readthedocs.io/en/latest/overview.html#reporting-workflows>`_.
 
 What happens when I configure the Sheets?
 -------
