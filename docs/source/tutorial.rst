@@ -4,11 +4,13 @@ Tutorial
 Configure sCubed Sheets
 -------
 
-#. Initiate core Sheets.
-#. Add core data validation and formatting.
-#. Select granularity of provenance.
-#. Add provenance data validation and formatting.
-#. Add another package.
+Start by configuring the sCubed forms. 
+Navigate to the sCubed menu and then navigate to the item ``Configure forms``.
+
+#. Select ``Create core forms`` to create the standard sheets.
+#. Select ``Enable summaries`` to enable summarizing the provenance of physical material.
+#. Select ``Add context packages`` and complete the form to add column based on your needs.
+#. Select ``Apply validation & formatting`` to apply data validation, value formatting, conditional formatting and simple help text.
 
 Install onEdit trigger
 -------
@@ -18,27 +20,9 @@ Access simple help text
 -------
 #. Hover the pointer over a column name to reveal the simple help text.
 
- .. _add-ctrl-term:
-Add a controlled term
--------
-Controlled terms can only be added via drop-down lists that include the key phrase ``Add controlled term``.
-
-#. From the drop-down list, select ``Add controlled term``.
-#. In the form, enter the term name.
-#. In the form, specify if the term is an ontology.
-#. Enter a link to the ontology term or an ontology term that's closest.
-
-Create a process type
--------
-Note that this is only applicable to instances where you are either summarizing provenance or are using the generic actvity approach to provenance.
-
-#. Select the ``processDefinition`` Sheets (tab).
-#. In the column ``process_type``, select the drop-down list.
-#. Follow the steps for :ref:`add-ctrl-term`. 
-
 Create a planned process
 -------
-To create a planned process, you must have created at least one procees type.
+To create a planned process, you must have added the ``CIDC`` context package via the custom menu ``Configure forms`` > ``Add context packages``.
 
 #. Select the ``processDefinition`` Sheets (tab).
 #. In the first column, select a process type from the list.
@@ -116,9 +100,3 @@ the visibility of columns via the add-on.
 
 #. Click the cell that contains the value for which you would like display columns.
 #. From the sCubed menu, select ``Change view``.
-
-Enter activites using a reporting workflow
--------
-
-Summarize provenance
--------
