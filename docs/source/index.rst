@@ -19,8 +19,5 @@ Contents
    quick_start
    tutorial
    implementation
-   glossary
    complementary_rsrcs
-   privacy_policy
-   terms_service
    contribute
